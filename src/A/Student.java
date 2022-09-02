@@ -32,7 +32,7 @@ public class Student {
         this.grade = grade;
     }
 
-     int getId() {
+    public int getId() {
         return id;
     }
 
